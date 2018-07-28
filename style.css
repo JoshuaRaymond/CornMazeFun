@@ -1,0 +1,316 @@
+body {
+background: #30510A;
+}
+
+tr.border_bottom td {
+  border-bottom:1pt solid white;
+}
+
+td {
+	font: normal 11px Tahoma, Arial;
+	color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5 {
+
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font: normal tahoma, arial 24.45px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+
+a {
+
+font: normal 13px Tahoma, Arial;
+color: #f4e264;
+text-decoration: underline;
+}
+
+a:hover {
+	font: normal 13px Tahoma, Arial;
+	color: #f4e264;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+a.white-link-underline {	
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+.white-text{
+color: #ffffff;
+text-decoration: none;
+
+}
+a.b1
+{
+font:  14px tahoma, Arial;
+color: #fffea0;
+text-decoration: none;
+padding: 15px;
+margin: 0px;
+
+}
+.p
+{
+padding: 0 0 0 20px;
+}
+.p1
+{
+padding: 0 0 0 30px;
+}
+.p2
+{
+padding: 150px 0 0 250px;
+}
+.bg1
+{
+background: #000000 url(image/index_10.gif) top no-repeat;
+}
+.bg2
+{
+background: #000000 url(image/index_10.gif) top no-repeat;
+}
+.bord
+{
+border: 1px solid #c5d85a;
+}
+.menu 
+{
+color:#8c247b;
+vertical-align:top;
+height: 35px;
+padding: 10px 0 0 20px;
+}
+.menu a
+{
+color:#8c247b;
+font: bold 11px  tahoma, Arial;
+text-decoration: none;
+}
+
+
+.blye-text-underline {
+color: #a257e0;
+text-decoration: underline;
+}
+
+.blye-text-regular {
+color: #a257e0;
+text-decoration: none;
+}
+
+.yellow-text-regular {
+color: #f4e264;
+text-decoration: none;
+}
+
+.yellow-text-underline {
+color: #f4e264;
+text-decoration: underline;
+}
+
+.orange-text-regular {
+color: #fe6b1d;
+text-decoration: none;
+}
+
+.orange-text-underline {
+color: #fe6b1d;
+text-decoration: underline;
+}
+.broun-text-regular {
+color: #de4e06;
+text-decoration: none;
+}
+
+.broun-text-underline {
+color: #de4e06;
+text-decoration: underline;
+}
+
+.red-text-regular {
+color: #8c247b;
+text-decoration: none;
+}
+
+.red-text-underline {
+color: #8c247b;
+text-decoration: underline;
+}
+.black-text-regular {
+color: #000000;
+text-decoration: none;
+}
+
+.black-text-underline {
+color: #000000;
+text-decoration: underline;
+}
+
+
+.gray-text-underline{
+color: #7c7c7c;
+text-decoration: underline;
+}
+.gray-text-regular{
+color: #7c7c7c;
+text-decoration: none;
+}
+
+.green-text{
+color: #a5b66e;
+text-decoration: none;
+}
+
+.green-text-underline{
+color: #a5b66e;
+text-decoration: underline;
+}
+
+/********** body1 **********/
+.body_resize1 { margin:0; padding:0; border-top:1px solid #e6e6e6;}
+.body1 { width:960px;  margin:0 auto; padding:10px 30px;}
+.body1 h2 { border-bottom:1px solid #dedede; font: bold 20px Arial, Helvetica, sans-serif; color:#282828; margin:0;  padding:10px 5px;}
+.body1 h2 span {  font: normal 11px Arial, Helvetica, sans-serif; color:#c0c0c0;}
+.body1 h3 { font: bold 12px Arial, Helvetica, sans-serif; color:#454646; border-bottom:1px solid #dedede;  margin:0;  padding:10px 5px;}
+.body1 img { float:left; padding:0; margin:10px 5px;}
+.body1 img.port { float:left; padding:0; margin:5px 1px;}
+.body1 img.floated { float:right; padding:0; margin:0 5px;}
+.body1 p { font:normal 12px Arial, Helvetica, sans-serif; color:#747474; line-height:1.8em; padding:5px 5px; margin:0;}
+.body1 p span { color:#8e8e8e; font: normal 11px Arial, Helvetica, sans-serif; line-height:1.8em;}
+.body1 a { text-decoration:none; color:#0db8d5; line-height:1.8em; font: bold 12px Arial, Helvetica, sans-serif;}
+.body_small1 { width:340px; float:right; margin:5px 0 5px 15px; padding:0;}
+.body_big1 {
+	width:990px;
+	float:left;
+	padding:0;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+.body1 .block2a { width:270px; margin:5px; padding:0; float:left;}
+/********** body **********/
+.body_resize {
+	margin:0;
+	padding:0;
+	border-top:1px solid #e6e6e6;
+	width: 840px;
+}
+.body {
+	width:960px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+.body h2 {
+	border-bottom:1px solid #dedede;
+	font: bold 20px Arial, Helvetica, sans-serif;
+	color:#F2DF63;
+	margin:0;
+	padding:10px 5px;
+}
+.body h2 span {  font: normal 11px Arial, Helvetica, sans-serif; color:#c0c0c0;}
+.body h3 {
+	font: bold 12px Arial, Helvetica, sans-serif;
+	color:#000;
+	border-bottom:1px solid #dedede;
+	margin:0;
+	padding:10px 5px;
+}
+.body img { float:left; padding:0; margin:10px 5px;}
+.body img.port { float:left; padding:0; margin:5px 1px;}
+.body img.floated { float:right; padding:0; margin:0 5px;}
+.body p {
+	font:normal 12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	line-height:1.8em;
+	padding:5px 5px;
+	margin:0;
+}
+.body p span { color:#8e8e8e; font: normal 11px Arial, Helvetica, sans-serif; line-height:1.8em;}
+.body a { text-decoration:none; color:#F2DF63; line-height:1.8em; font: bold 12px Arial, Helvetica, sans-serif;}
+.body_small { width:340px; float:right; margin:5px 0 5px 15px; padding:0;}
+.body_big { width:560px; float:left; margin:5px 0 5px 5px; padding:0;}
+.body .block2 {
+	width:270px;
+	margin:5px;
+	padding:0;
+	float:left;
+}
+.body .block2b {
+	width:320px;
+	margin:5px;
+	padding:0;
+	float:left;
+}
+.body .block2a {
+	width:954px;
+	margin:5px;
+	padding:0;
+	float:left;
+}
+
+#box {
+   width: 25%;
+   padding-bottom: 25%;
+   background: #00F;
+   color: #FFF;
+   position: relative;
+}
+#innerContent {
+   position: absolute;
+   left: 10px;
+   right: 10px;
+   top: 10px;
+   bottom: 10px;
+   background: #66F;
+}
+
+@media only screen and (max-width : 480px) {
+   /* Smartphone view: 1 tile */
+   .box {
+      width: 100%;
+      padding-bottom: 100%;
+   }
+}
+@media only screen and (max-width : 650px) and (min-width : 481px) {
+   /* Tablet view: 2 tiles */
+   .box {
+      width: 50%;
+      padding-bottom: 50%;
+   }
+}
+@media only screen and (max-width : 1050px) and (min-width : 651px) {
+   /* Small desktop / ipad view: 3 tiles */
+   .box {
+      width: 33.3%;
+      padding-bottom: 33.3%;
+   }
+}
+@media only screen and (max-width : 1290px) and (min-width : 1051px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+      padding-bottom: 25%;
+   }
+}
